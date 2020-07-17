@@ -1,6 +1,6 @@
-package guru.springframework.repositories;
+package guru.spring.repositories;
 
-import guru.springframework.domain.UnitOfMeasure;
+import guru.spring.domain.UnitOfMeasure;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.Optional;

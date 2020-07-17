@@ -1,6 +1,6 @@
-package guru.springframework.services;
+package guru.spring.services;
 
-import guru.springframework.domain.Recipe;
+import guru.spring.domain.Recipe;
 
 import java.util.Set;
 

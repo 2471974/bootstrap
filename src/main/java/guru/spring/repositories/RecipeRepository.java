@@ -1,6 +1,6 @@
-package guru.springframework.repositories;
+package guru.spring.repositories;
 
-import guru.springframework.domain.Recipe;
+import guru.spring.domain.Recipe;
 import org.springframework.data.repository.CrudRepository;
 
 /**
